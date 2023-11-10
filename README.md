@@ -1,1 +1,1 @@
-# exercises
+# Rise In: Rust Bootcamp Exercises
