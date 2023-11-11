@@ -1,0 +1,6 @@
+[package]
+name = "simple_calculator"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

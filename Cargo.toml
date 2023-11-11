@@ -1,5 +1,5 @@
 [workspace]
-members = ["01_concatenate_strings"]
+members = ["01_concatenate_strings", "02_simple_calculator"]
 resolver = "2"
 
 [workspace.package]
