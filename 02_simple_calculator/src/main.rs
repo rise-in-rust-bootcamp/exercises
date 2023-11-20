@@ -94,4 +94,12 @@ mod tests {
 
         assert_eq!(result, 2.0);
     }
+
+    #[test]
+    fn test_calculate_with_division_by_zero() {
+        let operation = Operation::Divide(6.0, 0.0);
+        let result = calculate(operation);
+
+        assert_eq!(result, std::f64::INFINITY);
+    }
 }
