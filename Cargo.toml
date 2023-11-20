@@ -1,5 +1,9 @@
 [workspace]
-members = ["01_concatenate_strings", "02_simple_calculator"]
+members = [
+  "01_concatenate_strings",
+  "02_simple_calculator",
+  "03_basic_banking_system",
+]
 resolver = "2"
 
 [workspace.package]

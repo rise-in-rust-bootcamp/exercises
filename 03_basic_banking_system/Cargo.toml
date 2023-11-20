@@ -1,0 +1,6 @@
+[package]
+name = "basic_banking_system"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
