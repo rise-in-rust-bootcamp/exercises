@@ -3,6 +3,7 @@ members = [
   "01_concatenate_strings",
   "02_simple_calculator",
   "03_basic_banking_system",
+  "04_custom_filtering_function",
 ]
 resolver = "2"
 

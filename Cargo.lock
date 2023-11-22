@@ -11,5 +11,9 @@ name = "concatenate_strings"
 version = "0.1.0"
 
 [[package]]
+name = "custom_filtering_function"
+version = "0.1.0"
+
+[[package]]
 name = "simple_calculator"
 version = "0.1.0"
