@@ -4,6 +4,7 @@ members = [
   "02_simple_calculator",
   "03_basic_banking_system",
   "04_custom_filtering_function",
+  "05_error_handling",
 ]
 resolver = "2"
 

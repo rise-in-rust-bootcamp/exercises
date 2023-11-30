@@ -1,0 +1,6 @@
+[package]
+name = "error_handling"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
